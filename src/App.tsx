@@ -7,6 +7,10 @@ function App() {
       <Header />
       <main className="p-4">
         <h2 className="text-xl font-semibold text-gray-800 mb-4">Inventory Status</h2>
+
+        {/* 🔴 Tailwind Text Color Test */}
+        <div className="text-red-600 text-xl font-bold">Tailwind Red Test</div>
+
         <InventoryTable />
       </main>
     </div>

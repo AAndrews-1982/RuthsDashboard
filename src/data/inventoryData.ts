@@ -9,11 +9,11 @@ export const inventoryItems = [
   { id: 8, name: "Carrots", required: 20 },
   { id: 9, name: "Red Apple", required: 20 },
   { id: 10, name: "Green Apple", required: 20 },
-  { id: 11, name: "Mayonnaise", required: 120 },
+  { id: 11, name: "Mayonnaise", required: 20 },
   { id: 12, name: "Apple Cider Vinegar", required: 10 },
   { id: 13, name: "Louisiana Hot Sauce", required: 10 },
   { id: 14, name: "Forks (case)", required: 2 },
   { id: 15, name: "Spoons (case)", required: 2 },
   { id: 16, name: "Fryer Oil", required: 5 },
-  { id: 17, name: "To-Go Boxes", required: 500 },
+  { id: 17, name: "To-Go Boxes (case)", required: 5 },
 ];
