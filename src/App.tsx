@@ -14,4 +14,8 @@ function App() {
   );
 }
 
+<div className="bg-red-500 text-white p-4">
+  If this is not red with white text, Tailwind is broken.
+</div>
+
 export default App;
